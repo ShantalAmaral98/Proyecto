@@ -6,10 +6,13 @@ echo "API"
   //Shantal 
   "Nombre" => "Lizzie",
   "Color de carro" => "Negro",
-  "Atributo2" => "String",
-  "Atributo4" => "Int",
-  "Atributo5" => "Float",
-  
+  "Color de ojos" => "Grises",
+  "Caballos de fuerza" => "20",
+  "Tamaño del carro" => "2.450 mm",
+  "Fabricante" => "Ford",
+  "Lugar de residencia" => "Radiador Spring",
+  "Velocidad" => "45 kmh"
+  "Puertas" => "
   ] 
   
 
