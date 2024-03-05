@@ -2,8 +2,11 @@
 echo "API"
   //Crear objeto JSON
   //Crear un array 
-  $Shantal = [
-  "nombre" => 
+  $Objeto = [
+  
+  "Atributo1" => "Lizzie",
+  "Atributo2" => "Negro",
+  
 
 
 
