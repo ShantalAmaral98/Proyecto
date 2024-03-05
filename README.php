@@ -11,8 +11,20 @@ echo "API"
   "Tamaño del carro" => "2.450 mm",
   "Fabricante" => "Ford",
   "Lugar de residencia" => "Radiador Spring",
-  "Velocidad" => "45 kmh"
-  "Puertas" => "
+  "Velocidad" => "45 kmh",
+  "Puertas" => "2",
+  "Personalidad" => "Ingeniosa",
+  "Color de rines" => "Cafe",
+  "Color de faros" => "Purpura",
+  "Enfermedad" => "true",
+  "Numero de matricula" => "MT23",
+  "Llanta de repuesto" => "true",
+  "Motor" => "117 M.I.C.",
+  "Color de llantas" => "Blanco y negro",
+  "Modelo de carro" => "Ford Modelo T de 1923",
+  "Ocupacion" => "Dueña de una tienda",
+  "peso del carro" => "540 KG"
+
   ] 
   
 
