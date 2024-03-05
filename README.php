@@ -30,26 +30,26 @@ echo "API"
 
 
 
-  //MIGUEL
+  //DENISSE
   $RayoMcqueen = [
-  "color" => "rojo brillante",
-  "numero de participante" => "9",
-  "caracter" => "amistoso y terco",
-  "Diseño" => "aerodinamico",
-  "personalidad" => "competitiva y ambiciosa",
-  "motor" => "Full race v8",
-  "habilidad" => "buen drift",
-  "color de ojos" => "Azules",
-  "Faros" => "llamativos en forma de ojos",
-  "ocupacion" => "competidor de carreras",
-  "matricula" => "A 113",
-  "atributo12" => "int",
-  "atributo13" => "int",
-  "atributo14" => "int",
-  "atributo15" => "int",
-  "atributo16"=> "int",
-  "atributo17" => "int",
-  "atributo18" => "int",
-  "atributo19" => "int",
-  "atributo20" => "int",
-
+  
+  "Nombre" => "Montgomery McQueen",
+  "Color de carro" => "Rojo",
+  "Color de ojos" => "Azules",
+  "Caballos de fuerza" => "760",
+  "Tamaño del carro" => "4.5metros",
+  "Fabricante" => "Nascar",
+  "capacidad de combustible" => "100 litros",
+  "Velocidad" => "320 km/h",
+  "numero de carrera" => "95",
+  "Personalidad" => "carismático",
+  "Color de rines" => "plateado",
+  "Color de faros" => "blanco",
+  "carreras ganadas" => "7",
+  "Numero de matricula" => "A-113",
+  "Llanta de repuesto" => "1",
+  "Motor" => "V8",
+  "Color de llantas" => "negro",
+  "Modelo de carro" => "Chevrolet Corvette C6",
+  "Ocupacion" => "corredor de carreras profesional",
+  "peso del carro" => "1,300 KG"
