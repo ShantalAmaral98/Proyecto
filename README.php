@@ -53,3 +53,30 @@ echo "API"
   "Modelo de carro" => "Chevrolet Corvette C6",
   "Ocupacion" => "corredor de carreras profesional",
   "peso del carro" => "1,300 KG"
+
+  //Miguel 
+    $francescoBernoulli = [
+  
+  "Nombre" => "Francesco Bernoulli",
+  "Color de carro" => "Rojo, blanco y verde",
+  "Color de ojos" => "cafes",
+  "Caballos de fuerza" => "750-800",
+  "Tamaño del carro" => "5 metros",
+  "Fabricante" => "Ferrari",
+  "capacidad de combustible" => "160 litros",
+  "Velocidad" => "330 km/h",
+  "numero de carrera" => "1",
+  "Personalidad" => "egocentrico y arrogante",
+  "Color de rines" => "rojos",
+  "Color de faros" => "rojos",
+  "carreras ganadas" => "0",
+  "Numero de matricula" => "1",
+  "Llanta de repuesto" => "0",
+  "Motor" => "V8 de 2.4 litros ",
+  "Color de llantas" => "negro y rojo",
+  "Modelo de carro" => "Ferrari Formula 1",
+  "Ocupacion" => "competidor de carreras",
+  "peso del carro" => "740 KG"
+
+
+  
