@@ -78,5 +78,27 @@ echo "API"
   "Ocupacion" => "competidor de carreras",
   "peso del carro" => "740 KG"
 
-
+//Dayanna
+  $Mate = [
+  
+  "Nombre" => "Mate",
+  "Color de carro" => "Cafe",
+  "Color de ojos" => "Marrones",
+  "Caballos de fuerza" => "320",
+  "Tamaño del carro" => "6 metros",
+  "Fabricante" => "Chevrolet",
+  "Capacidad de combustible" => "50 litros",
+  "Velocidad" => "285 km/h",
+  "Tipo de carrera" => "prosopoyeico",
+  "Personalidad" => "Amigable, Alegre y Leal",
+  "Color de rines" => "Negro",
+  "Color de faros" => "Amarillos",
+  "Carreras ganadas" => "1",
+  "Numero de Matricula" => "A113",
+  "Llanta de repuesto" => "2"
+  "Motor" => "V8 con 5.7 litros",
+  "Color de llantas" => "Negro",
+  "Modelo de carro" => "Chevrolet Task Force",
+  "Ocupacion" => "Camion de grua",
+  "Peso del carro" => "1,315 KG",
   
