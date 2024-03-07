@@ -101,4 +101,4 @@ echo "API"
   "Modelo de carro" => "Chevrolet Task Force",
   "Ocupacion" => "Camion de grua",
   "Peso del carro" => "1,315 KG",
-  
+echo json_encode
