@@ -52,7 +52,7 @@ echo "API"
   "Color de llantas" => "negro",
   "Modelo de carro" => "Chevrolet Corvette C6",
   "Ocupacion" => "corredor de carreras profesional",
-  "peso del carro" => "1,300 KG"
+  "peso del carro" => "1,300.500"
 
   //Miguel 
     $francescoBernoulli = [
